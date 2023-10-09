@@ -1,2 +1,2 @@
-# sonnengold-solutions
-Sonnengold Solutions GmbH
+# Sonnengold Solutions GmbH
+
