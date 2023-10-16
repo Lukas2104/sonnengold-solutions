@@ -1,6 +1,4 @@
-# Sonnengold Solutions
-
-> Aufgabe 01
+# A01: Unternehmensgrüdnung
 
 ![Aufgabe 01](assets/A01.png)
 
@@ -40,4 +38,5 @@
 - **Regionen:** Deutschlandweit, mit besonderem Fokus auf Städten und Gemeinden, spätere Ausbreitung nach Europa.
 - **Einkommen:** Öffentliche Einrichtungen mit entsprechendem Budget für nachhaltige Energieprojekte.
 - **Entscheidungsträger:** Bürgermeister, Stadtplaner, Energiekoordinatoren.
+
 Unser Ansatz wird darin bestehen, maßgeschneiderte Angebote und Beratungsdienstleistungen für jede dieser Zielgruppen zu entwickeln, um ihren spezifischen Anforderungen gerecht zu werden und ihnen zu helfen, ihren Übergang zu erneuerbaren Energielösungen erfolgreich umzusetzen.
