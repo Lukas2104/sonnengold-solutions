@@ -1,6 +1,6 @@
 # A08 - Consulting
 
-![Aufgabe 08](assets/A08.png)
+![Aufgabe 07](assets/A07.png)
 
 ## 1. Größte Herausforderungen für Consultants genrell:
 - **Komplexität der Aufgaben**: Berater müssen komplexe Problemstellungen verstehen und effektive Lösungen entwickeln.
